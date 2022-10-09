@@ -5,3 +5,6 @@ if(hasRupees == false){
   System.out.println("Sorry, Link, I can't give credit! Come back whey you're a little – mmmm – richer.");
 }
 ```
+- [ ] Get rupees
+- [ ] Buy loot
+- [ ] Profit?
